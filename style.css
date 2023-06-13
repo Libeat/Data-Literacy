@@ -1,0 +1,27 @@
+html {
+    background-color: #eeeee4;
+    font-size: 20px; /* px 은 'pixels' 를 의미합니다: 기본 글자 크기는 현재 10 pixels 높이입니다. */
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #eab676;
+    padding: 0 20px 20px 40px;
+    border: 5px solid black;
+}
+
+h3 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px whitesmoke;
+}
+  
+script {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
